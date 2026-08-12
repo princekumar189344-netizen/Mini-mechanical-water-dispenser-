@@ -1,0 +1,7 @@
+Part,Quantity,Purchase Link,Cost (USD),Purpose
+Small DC water pump,1,https://directronics.in/product/submersible-dc-pump-3v-5v,$0.52,Pumps/moves the water
+HL IMR18650-1200mAh 3.7V rechargeable Li-ion battery,1,https://stemvolt.in/product/3-7v-1200mah-18650-lithium-rechargeable-cell-hongli/,$3.15,Provides power to the pump
+ON/OFF switch,1,https://smartxprokits.in/on-off-red-rocker-switch/,$0.21,Turns the pump ON and OFF
+Connecting wires,Few,https://www.electroncomponents.com/Hookup-Wire-22Gauge-Solid-B,$0.01,"Connects the battery, switch and pump"
+Water container,1,N/A - reused container,$0.00,Holds the water
+Total,,,$3.89,
